@@ -1,0 +1,12 @@
+.container{
+    width: 1170px;
+    border: 1px solid red;
+    display: flex;
+
+}
+.row1{
+    flex-basis:50%;
+}
+.row2{
+    flex-basis: 50%;
+}
